@@ -33,3 +33,7 @@ Je trouvais que pour imbriquer le formulaire dans un CV, le classique username e
 
 Je les ai filtré de cette manière afin de pouvoir imbriqué la balise article pour chaque formation et expérience ajoutée.
 J'ai décidé d'utiliser des images ainsi que des liens externes pour mettre l'utilisateur dans le contexte.
+
+### Customisation des variables CSS
+
+Les variables configurables sont situés dans le dossier "scss/\_variables.scss" (possibilité d'en rajouter).
